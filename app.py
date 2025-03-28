@@ -112,7 +112,7 @@ body {
 }
 .spotify-button {
     background-color: #1DB954;
-    color: white;
+    color: #000000 !important;
     border: none;
     border-radius: 20px;
     padding: 8px 15px;
