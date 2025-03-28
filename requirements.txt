@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+numpy
+streamlit
+matplotlib
+nltk
+scikit-learn-extra
+pyclustering
+faiss-cpu
+spotipy
